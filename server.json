@@ -1,0 +1,17 @@
+{
+    "name":"hub-employee-mgmt-postgreSql",
+    "app":{
+        "cfengine":"adobe@2023"
+    },
+    "web":{
+        "host":"127.0.0.1",
+        "webroot":"public",
+        "http":{
+            "port":8520
+        },
+        "rewrites":{
+            "enable":false
+        }
+    },
+    "openBrowser":false
+}

@@ -1,0 +1,11 @@
+{
+    "name": "cfml-employee-management-app-postgreSql",
+    "slug": "cfml-employee-management-app-postgreSql",
+    "version": "1.0.0",
+    "shortDescription": "Employee Management System built with CFML for Adobe ColdFusion 2023 and PostgreSQL",
+    "type": "projects",
+    "private": true,
+    "ignore": [
+        "**/.*"
+    ]
+}
