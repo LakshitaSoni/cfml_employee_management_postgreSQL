@@ -13,5 +13,8 @@
             "enable":false
         }
     },
+    "jvm":{
+        "args":"-Duser.timezone=Asia/Kolkata"
+    },
     "openBrowser":false
 }
